@@ -1,0 +1,48 @@
+.center{
+    padding: 50px;
+    margin-top: 70px;
+}
+.table1{
+    border:5px solid;
+    border-radius: 4px;
+}
+.tit{
+    display: inline-block;
+    color:gainsboro;
+}
+.centerr{
+    margin-bottom: 18px;
+}
+.cadastraryou{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-left: 50px;
+}
+.cadastrarfilme{
+    width: 200px;
+    height: 200px;
+    display: inline;
+    position: absolute;
+    margin-left: 1100px;
+    text-align: right;
+    margin-top: 10px;
+}
+.lista{
+    margin-top: 20px;
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.space{
+    margin-top: 80px;
+}
+.barra{
+    height: 80px;
+}
+.final{
+    width: 100%;
+    color:gainsboro;
+    text-align: center;
+    
+}
